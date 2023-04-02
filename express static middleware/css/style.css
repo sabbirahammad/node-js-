@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+img{
+    height: 400px;
+    width: 200px;
+    justify-content: center;
+    position: relative;
+    left: 300px;
+}
